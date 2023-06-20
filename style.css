@@ -2,11 +2,11 @@
     --branco:#ffffff;
     --cinza:#c0c0c0;
     --botao:#167bf7;
-    --background-color:#00030c;
+    --background-color:#00030C;
     --fonte-principal:'Inter';
 }
 body{
-    background-color:var(--background);
+    background-color:var(--background-color);
     color: var(--branco);
     font-family: var(--fonte-principal);
 }
