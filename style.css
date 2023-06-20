@@ -6,7 +6,7 @@
     --fonte-principal:'Inter';
 }
 body{
-    background-color:var(--background-color);
+    background-color: var(--background-color);
     color: var(--branco);
     font-family: var(--fonte-principal);
 }
@@ -19,6 +19,8 @@ body{
     background-image: url(img/Background.png) ;
     background-repeat:no-repeat;
     background-size:contain;
+    align-items: center;
+    text-align: center;
 }
 
 .container{
