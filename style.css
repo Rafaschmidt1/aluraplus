@@ -31,5 +31,5 @@ body{
     background-color: var(--botao);
     border-radius: 5px;
     padding: 1em;
-    color: var(--botao);
+    color: var(--branco);
 }
