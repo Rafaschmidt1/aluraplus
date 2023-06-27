@@ -28,8 +28,8 @@ body{
 }
 
 .container_botao{
-    background-color: var(--botao-azul);
+    background-color: var(--botao);
     border-radius: 5px;
     padding: 1em;
-    color: var(--botao-azul);
+    color: var(--botao);
 }
