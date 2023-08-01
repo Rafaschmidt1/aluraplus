@@ -84,3 +84,7 @@ body{
 .descricao_texto{
     color: var(--cinza);
 }
+
+.container_descricao{
+    padding: 2em;
+}
