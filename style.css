@@ -155,7 +155,7 @@ body{
 
 .containerbotao:hover{
     background-color: var(--efeitobotao);
-    color: var(--background);
+    color: var(--branco);
 }
 
 
