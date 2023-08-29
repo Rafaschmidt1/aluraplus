@@ -4,7 +4,8 @@
     --botao: #0e2c40;
     --background: #00030C; 
     --fonte-principal: 'Inter';
-    --efeitobotao:#690000;
+    --efeitobotao: #690000;
+    --efeitoletra:#ff4747 ;
 }
 
 body{
